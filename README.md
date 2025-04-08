@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**ATLIOD/ATLIOD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [do now]([https://pages.github.com/](https://github.com/ATLIOD/donow)).
+- 🌱 I’m currently learning how to build CLI tools with Go.
+  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATLIOD"/>
