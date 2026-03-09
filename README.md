@@ -1,3 +1,3 @@
 - 🔭 I’m currently working on [Gozelle](https://github.com/ATLIOD/Gozelle).
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATLIOD"/>
+
+  [![Atliod's GitHub stats](https://github-readme-stats.vercel.app/api?username=atliod)](https://github.com/atliod/github-readme-stats)
