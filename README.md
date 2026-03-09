@@ -1,3 +1,3 @@
 - 🔭 I’m currently working on [Gozelle](https://github.com/ATLIOD/Gozelle).
 
-  [![Atliod's GitHub stats](https://github-readme-stats.vercel.app/api?username=atliod)](https://github.com/atliod/github-readme-stats)
+ <img src="https://myreadme.vercel.app/api/embed/ATLIOD?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
