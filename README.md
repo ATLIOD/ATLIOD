@@ -1,1 +1,1 @@
-- 🔭 I’m currently working on [GoTerm](https://github.com/ATLIOD/GoTerm)).
+- 🔭 I’m currently working on [GoTerm](https://github.com/ATLIOD/GoTerm).
