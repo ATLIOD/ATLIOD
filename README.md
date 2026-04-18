@@ -1,3 +1,3 @@
-- I am currently working on: [Dev Dash](https://github.com/ATLIOD/Dev-Dash).
+- I am currently working on: [Dev Dash](https://github.com/ATLIOD/Dev-Dash) and [GoTerm](https://github.com/ATLIOD/GoTerm).
 - I am currently learning: [Swift](https://github.com/swiftlang/swift)
 - Next I want to learn: [Scala](https://github.com/scala) or [Terraform](https://github.com/hashicorp/terraform)
